@@ -1,1 +1,1 @@
-# 01-css-methods
+In this exercise, I practiced adding CSS to an HTML file using all three methods: external CSS, internal CSS, and inline CSS. This is an exercise from The Odin Project for CSS.
